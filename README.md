@@ -16,5 +16,4 @@ The task was to create a Python chatbot that can help cut the wait time of a nor
 ## Demonstration
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-<img src="demonstration.png
-  ">
+<img src="demonstration.png">
